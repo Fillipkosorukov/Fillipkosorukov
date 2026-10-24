@@ -5,6 +5,7 @@ Builder, momentum trader and real estate investor based in Indianapolis. Psychol
 - Past projects include LocalMention, an AI visibility project.
 - Founder of [FixMyRecord.io](https://fixmyrecord.io) — personal reputation audits & data broker removal
 - Founder of Resilient Capital LLC — momentum swing trading
+- [SetupLens work sample](https://fillipkosorukov.net/setuplens/) — selected views from my private trading research workspace, shown with invented data.
 - Through Resilient Properties, I own and manage two properties that I renovated and now rent out.
 - Psychology graduate and published research co-author (Taylor & Francis, PubMed)
 
